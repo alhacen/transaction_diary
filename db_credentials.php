@@ -1,0 +1,11 @@
+<?php
+$c=array("dbConfigured"=>"1",
+				"userConfigured"=>"1",
+				"dbhost"=>"localhost",
+				"dbuser"=>"root",
+				"dbpass"=>"",
+				"dbname"=>"transaction_diary",
+				"username"=>"alhaqhssan",
+				"password"=>"fe546279a62683de8ca334b673420696",
+				)
+?>
